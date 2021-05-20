@@ -7,10 +7,7 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: |
-      # Vie de photographie, d'amour et d'eau fraîche 
-
-      Découvrez des photographies de faune & de flore. 
+    content: "# Vie de photographie, d'amour et d'eau fraîche\n\nDécouvrez des photographies de faune & de flore \U0001F340\n"
     actions:
       - title: See all items
         url: /store
