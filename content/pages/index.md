@@ -7,11 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: |
+      # Vie de photographie, d'amour et d'eau fraîche 
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Découvrez des photographies de faune & de flore. 
     actions:
       - title: See all items
         url: /store
